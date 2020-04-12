@@ -1,4 +1,4 @@
-# Minecraft.js
+# BlockySurvival
 A work-in-progress Minecraft clone. 
 
 Disclaimer: As mentioned above, this is a work-in-progress. It has many bugs and missing features.
